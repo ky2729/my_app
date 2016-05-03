@@ -1,0 +1,25 @@
+{
+  "name": "haha-company",
+  "version": "1.0.0",
+  "description": "corework",
+  "main": "app.js",
+  "scripts": {
+    "test": "haha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ky2729/my_app.git"
+  },
+  "keywords": [
+    "work"
+  ],
+  "author": "jidK",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ky2729/my_app/issues"
+  },
+  "homepage": "https://github.com/ky2729/my_app#readme",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
