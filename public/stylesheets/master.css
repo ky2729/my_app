@@ -2,3 +2,10 @@ h1
 {
     color : red;
 }
+
+p
+{
+  font-family: serif;;
+  font-size: 200%;
+  color: blue;
+}
